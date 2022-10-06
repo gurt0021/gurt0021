@@ -1,4 +1,4 @@
-Coding in: Lua, Json, Python, & more
+Coding in: Lua, Json, Python, & more.
 For special projects / business inquiries please reach out to me on Discord, My user tag is gurt#0021
 
 <!---
